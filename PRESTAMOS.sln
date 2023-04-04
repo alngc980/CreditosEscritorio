@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PRESTAMO", "PRESTAMO\PRESTAMO.vbproj", "{57AC85D8-BAC4-4F9C-94B8-E45E35E0221C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Capa_Datos", "Capa_Datos\Capa_Datos.vbproj", "{76CDC215-0129-4839-BC88-0060E05CB8DE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Capa_Entidad", "Capa_Entidad\Capa_Entidad.vbproj", "{EAA68F1D-3843-4190-A8C6-466E0A6B5B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AC85D8-BAC4-4F9C-94B8-E45E35E0221C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AC85D8-BAC4-4F9C-94B8-E45E35E0221C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AC85D8-BAC4-4F9C-94B8-E45E35E0221C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AC85D8-BAC4-4F9C-94B8-E45E35E0221C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CDC215-0129-4839-BC88-0060E05CB8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CDC215-0129-4839-BC88-0060E05CB8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CDC215-0129-4839-BC88-0060E05CB8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CDC215-0129-4839-BC88-0060E05CB8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA68F1D-3843-4190-A8C6-466E0A6B5B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA68F1D-3843-4190-A8C6-466E0A6B5B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA68F1D-3843-4190-A8C6-466E0A6B5B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA68F1D-3843-4190-A8C6-466E0A6B5B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

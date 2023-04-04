@@ -1,0 +1,386 @@
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\PRESTAMO.exe
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\PRESTAMO.pdb
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\PRESTAMO.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.exe
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.pdb
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\Capa_Datos.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\Capa_Entidad.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\Capa_Datos.pdb
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\Capa_Datos.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\Capa_Entidad.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\System.Windows.Forms.Ribbon35.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito2.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Form1.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\FlashControlV71.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\stdole.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SERVER\Documents\Visual Studio 2015\Projects\PRESTAMOS\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito2.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\System.Windows.Forms.Ribbon35.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Form1.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito2.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+G:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Form1.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito2.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Form1.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito2.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+D:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.CAJA.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.CAJA.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Form1.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito2.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+F:\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.CAJA.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.MontoLibre.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.CAJA.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.MontoLibre.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe.config
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.exe
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.exe
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\PRESTAMO.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Shared.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\FlashControlV71.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\stdole.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\ShockwaveFlashObjects.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Datos.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\bin\Debug\Capa_Entidad.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.CAJA.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Clientes_Mantenimiento.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Giros.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.MontoLibre.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Login.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Resources.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Nuevo_Credito.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Pagar_credito.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Principal_C.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reportes.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Credito.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.Reporte_Pc_A5.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\PRESTAMO\obj\Debug\PRESTAMO.vbproj.GenerateResource.Cache

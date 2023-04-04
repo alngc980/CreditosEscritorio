@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{57AC85D8-BAC4-4F9C-94B8-E45E35E0221C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PRESTAMO.My.MyApplication</StartupObject>
+    <RootNamespace>PRESTAMO</RootNamespace>
+    <AssemblyName>PRESTAMO</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PRESTAMO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PRESTAMO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>WhatsApp Image 2020-06-30 at 9.10.04 PM.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>D:\Disco D\Desarrollo Programmer\OPTICA BUHO IQUITOS\Optica_Buho\bin\Debug\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CAJA.Designer.vb">
+      <DependentUpon>CAJA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CAJA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes_Mantenimiento.designer.vb">
+      <DependentUpon>Clientes_Mantenimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes_Mantenimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giros.Designer.vb">
+      <DependentUpon>Giros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Giros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesBD.vb" />
+    <Compile Include="rpt_clientes.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_clientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt_CreditosAlDia.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_CreditosAlDia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MontoLibre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MontoLibre.Designer.vb">
+      <DependentUpon>MontoLibre.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Nuevo_Credito.designer.vb">
+      <DependentUpon>Nuevo_Credito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nuevo_Credito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pagar_credito.designer.vb">
+      <DependentUpon>Pagar_credito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pagar_credito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal_C.designer.vb">
+      <DependentUpon>Principal_C.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal_C.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes.Designer.vb">
+      <DependentUpon>Reportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_Credito.designer.vb">
+      <DependentUpon>Reporte_Credito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_Credito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_Pc-A5.designer.vb">
+      <DependentUpon>Reporte_Pc-A5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_Pc-A5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptPC.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt_creditosMorosos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_creditosMorosos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt_giro.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_giro.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt_giro_detalle.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_giro_detalle.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt_pagodecredito.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_pagodecredito.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt_pagos_ingresos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_pagos_ingresos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CAJA.resx">
+      <DependentUpon>CAJA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes_Mantenimiento.resx">
+      <DependentUpon>Clientes_Mantenimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giros.resx">
+      <DependentUpon>Giros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_clientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_clientes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_CreditosAlDia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_CreditosAlDia.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MontoLibre.resx">
+      <DependentUpon>MontoLibre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nuevo_Credito.resx">
+      <DependentUpon>Nuevo_Credito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pagar_credito.resx">
+      <DependentUpon>Pagar_credito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal_C.resx">
+      <DependentUpon>Principal_C.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes.resx">
+      <DependentUpon>Reportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_Credito.resx">
+      <DependentUpon>Reporte_Credito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_Pc-A5.resx">
+      <DependentUpon>Reporte_Pc-A5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_creditosMorosos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_creditosMorosos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_giro.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_giro.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_giro_detalle.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_giro_detalle.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_pagodecredito.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_pagodecredito.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_pagos_ingresos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_pagos_ingresos.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Datos\Capa_Datos.vbproj">
+      <Project>{76cdc215-0129-4839-bc88-0060e05cb8de}</Project>
+      <Name>Capa_Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa_Entidad\Capa_Entidad.vbproj">
+      <Project>{eaa68f1d-3843-4190-a8c6-466e0a6b5b3a}</Project>
+      <Name>Capa_Entidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-06-30 at 9.10.04 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="WhatsApp Image 2020-06-30 at 9.10.04 PM.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,84 @@
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\bin\Debug\Capa_Datos.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\bin\Debug\Capa_Datos.pdb
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\bin\Debug\Capa_Datos.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\bin\Debug\Capa_Entidad.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\bin\Debug\Capa_Entidad.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\obj\Debug\Capa_Datos.dll
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\obj\Debug\Capa_Datos.xml
+c:\users\server\documents\visual studio 2015\Projects\PRESTAMOS\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\Disco D\Desarrollo Programmer\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\Mortal Buger\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.xml
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.pdb
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.dll
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.pdb
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.xml
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.dll
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.xml
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.dll
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.xml
+F:\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.xml
+C:\Users\sandr\Desktop\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\bin\Debug\Capa_Entidad.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\Desarrollo\PROGRAMMER\1 SinServicios\PRESTAMOS - MORTAR BURGER\PRESTAMOS - MORTAR BURGER\Capa_Datos\obj\Debug\Capa_Datos.pdb
