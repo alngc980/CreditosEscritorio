@@ -56,7 +56,7 @@ Partial Class Principal_C
         Me.dgvlista.RowTemplate.DefaultCellStyle.Font = New System.Drawing.Font("Arial Narrow", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.dgvlista.RowTemplate.Height = 30
         Me.dgvlista.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvlista.Size = New System.Drawing.Size(976, 479)
+        Me.dgvlista.Size = New System.Drawing.Size(976, 326)
         Me.dgvlista.TabIndex = 6
         '
         'btnimprimirpagos
@@ -144,13 +144,14 @@ Partial Class Principal_C
         Me.Button1.TabIndex = 7
         Me.Button1.Text = "GIROS"
         Me.Button1.UseVisualStyleBackColor = False
+        Me.Button1.Visible = False
         '
         'Label1
         '
         Me.Label1.Anchor = System.Windows.Forms.AnchorStyles.Bottom
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Arial Narrow", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(424, 547)
+        Me.Label1.Location = New System.Drawing.Point(424, 394)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(265, 25)
         Me.Label1.TabIndex = 8
@@ -162,7 +163,7 @@ Partial Class Principal_C
         Me.lbltotal.AutoSize = True
         Me.lbltotal.Font = New System.Drawing.Font("Arial Narrow", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbltotal.ForeColor = System.Drawing.Color.Red
-        Me.lbltotal.Location = New System.Drawing.Point(684, 547)
+        Me.lbltotal.Location = New System.Drawing.Point(684, 394)
         Me.lbltotal.Name = "lbltotal"
         Me.lbltotal.Size = New System.Drawing.Size(47, 25)
         Me.lbltotal.TabIndex = 9
@@ -187,7 +188,7 @@ Partial Class Principal_C
         Me.lblcapitalprestado.AutoSize = True
         Me.lblcapitalprestado.Font = New System.Drawing.Font("Arial Narrow", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblcapitalprestado.ForeColor = System.Drawing.Color.Red
-        Me.lblcapitalprestado.Location = New System.Drawing.Point(282, 547)
+        Me.lblcapitalprestado.Location = New System.Drawing.Point(282, 394)
         Me.lblcapitalprestado.Name = "lblcapitalprestado"
         Me.lblcapitalprestado.Size = New System.Drawing.Size(47, 25)
         Me.lblcapitalprestado.TabIndex = 12
@@ -198,7 +199,7 @@ Partial Class Principal_C
         Me.Label4.Anchor = System.Windows.Forms.AnchorStyles.Bottom
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Arial Narrow", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(101, 547)
+        Me.Label4.Location = New System.Drawing.Point(101, 394)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(184, 25)
         Me.Label4.TabIndex = 11
@@ -209,7 +210,7 @@ Partial Class Principal_C
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SkyBlue
-        Me.ClientSize = New System.Drawing.Size(999, 582)
+        Me.ClientSize = New System.Drawing.Size(999, 429)
         Me.Controls.Add(Me.lblcapitalprestado)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Button2)
