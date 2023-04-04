@@ -66,12 +66,10 @@ Partial Class Nuevo_Credito
         Me.Label1 = New System.Windows.Forms.Label()
         Me.cb14ultrex = New System.Windows.Forms.CheckBox()
         Me.RibbonCheckBox1 = New System.Windows.Forms.RibbonCheckBox()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Panel4.SuspendLayout()
         Me.Panel2.SuspendLayout()
         CType(Me.dgvpagoss, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox3.SuspendLayout()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'checkfecharegistro
@@ -346,19 +344,11 @@ Partial Class Nuevo_Credito
         Me.cb14ultrex.Name = "cb14ultrex"
         Me.cb14ultrex.UseVisualStyleBackColor = True
         '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = Global.PRESTAMO.My.Resources.Resources.WhatsApp_Image_2020_06_30_at_9_10_04_PM
-        resources.ApplyResources(Me.PictureBox1, "PictureBox1")
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.TabStop = False
-        '
         'Nuevo_Credito
         '
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SkyBlue
-        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.cbvendedor)
         Me.Controls.Add(Me.Panel4)
         Me.Controls.Add(Me.Panel2)
@@ -378,7 +368,6 @@ Partial Class Nuevo_Credito
         CType(Me.dgvpagoss, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox3.ResumeLayout(False)
         Me.GroupBox3.PerformLayout()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -421,7 +410,6 @@ Partial Class Nuevo_Credito
     Friend WithEvents Label1 As Label
     Friend WithEvents cb14ultrex As CheckBox
     Friend WithEvents RibbonCheckBox1 As RibbonCheckBox
-    Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents dgvpagoss As DataGridView
     Friend WithEvents CUOTA As DataGridViewTextBoxColumn
     Friend WithEvents FECHA As DataGridViewTextBoxColumn

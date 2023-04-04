@@ -51,9 +51,7 @@ Partial Class Pagar_credito
         Me.txtid = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'lbltotal
@@ -61,7 +59,7 @@ Partial Class Pagar_credito
         Me.lbltotal.AutoSize = True
         Me.lbltotal.Font = New System.Drawing.Font("Times New Roman", 18.0!, System.Drawing.FontStyle.Bold)
         Me.lbltotal.ForeColor = System.Drawing.Color.Red
-        Me.lbltotal.Location = New System.Drawing.Point(410, 326)
+        Me.lbltotal.Location = New System.Drawing.Point(329, 313)
         Me.lbltotal.Name = "lbltotal"
         Me.lbltotal.Size = New System.Drawing.Size(54, 26)
         Me.lbltotal.TabIndex = 21
@@ -72,7 +70,7 @@ Partial Class Pagar_credito
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Times New Roman", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Label9.ForeColor = System.Drawing.Color.Red
-        Me.Label9.Location = New System.Drawing.Point(198, 326)
+        Me.Label9.Location = New System.Drawing.Point(117, 313)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(208, 26)
         Me.Label9.TabIndex = 20
@@ -236,7 +234,7 @@ Partial Class Pagar_credito
         Me.Button1.BackColor = System.Drawing.Color.Blue
         Me.Button1.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Location = New System.Drawing.Point(256, 370)
+        Me.Button1.Location = New System.Drawing.Point(175, 357)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(168, 42)
         Me.Button1.TabIndex = 22
@@ -358,17 +356,6 @@ Partial Class Pagar_credito
         Me.Label1.TabIndex = 1
         Me.Label1.Text = "REALIZAR PAGO DEL PRESTAMO"
         '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = Global.PRESTAMO.My.Resources.Resources.WhatsApp_Image_2020_06_30_at_9_10_04_PM
-        Me.PictureBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl
-        Me.PictureBox1.Location = New System.Drawing.Point(46, 310)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(115, 102)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 58
-        Me.PictureBox1.TabStop = False
-        '
         'TextBox1
         '
         Me.TextBox1.BackColor = System.Drawing.Color.Red
@@ -386,10 +373,9 @@ Partial Class Pagar_credito
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SkyBlue
-        Me.ClientSize = New System.Drawing.Size(490, 429)
+        Me.ClientSize = New System.Drawing.Size(490, 404)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.lbltotal)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.chekmora)
@@ -421,7 +407,6 @@ Partial Class Pagar_credito
         Me.Name = "Pagar_credito"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "PAGAR PRESTAMO"
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -454,6 +439,5 @@ Partial Class Pagar_credito
     Friend WithEvents txtid As TextBox
     Friend WithEvents Label2 As Label
     Friend WithEvents Label1 As Label
-    Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents TextBox1 As TextBox
 End Class
